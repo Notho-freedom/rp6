@@ -226,3 +226,4 @@ root=tk.Tk()
 object= Code(root)
 root.call('wm', 'iconphoto', root,PhotoImage(file='D.png'))
 root.mainloop()
+#=====================ajout de gs code a github reuissi============================================
